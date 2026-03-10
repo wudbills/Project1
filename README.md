@@ -21,7 +21,7 @@
 
 Проект настроен на автоматическую сборку и публикацию Docker-образа в GitHub Container Registry через GitHub Actions.
 Образ доступен по адресу:
-ghcr.io/wudbills/project1:sha-a0520ee
+ghcr.io/wudbills/project1:latest
 
 
 ![Demonstration](https://github.com/wudbills/Project1/blob/main/Демонстрация.PNG)
