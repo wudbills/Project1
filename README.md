@@ -14,7 +14,7 @@
 - Запуск в Docker (с поддержкой секретов для пароля БД)
 
 ## Запуск
-1. Клонируйте репозиторий - git clone https://github.com/ВАШ-ЮЗЕРНЕЙМ/todo-app.git
+1. Клонируйте репозиторий - git clone https://github.com/wudbills/Project1.git
    cd todo-app
 2. docker compose up --build -d
 
