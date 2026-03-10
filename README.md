@@ -15,8 +15,8 @@
 
 ## Запуск
 1. Клонируйте репозиторий - git clone https://github.com/wudbills/Project1.git
-   cd todo-app
-2. docker compose up --build -d
+2. cd todo-app
+3. docker compose up --build -d
 
 
 Проект настроен на автоматическую сборку и публикацию Docker-образа в GitHub Container Registry через GitHub Actions.
